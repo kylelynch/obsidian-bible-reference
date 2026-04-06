@@ -1,0 +1,9 @@
+{
+  "id": "bible-reference",
+  "name": "Bible Reference Inserter",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Browse and insert Bible verse references as formatted callout blocks with transcluded content.",
+  "author": "Kyle Lynch",
+  "isDesktopOnly": false
+}

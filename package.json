@@ -1,0 +1,15 @@
+{
+  "name": "bible-reference",
+  "version": "1.0.0",
+  "description": "Obsidian plugin to insert Bible verse references",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "latest",
+    "typescript": "^5.3.0"
+  }
+}
