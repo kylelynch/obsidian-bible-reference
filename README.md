@@ -56,7 +56,7 @@ The plugin also supports flat structures (`Bible/Genesis 1.md`) and single-chapt
 
 1. Clone this repository into your vault's `.obsidian/plugins/` directory:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/obsidian-bible-reference.git .obsidian/plugins/bible-reference
+   git clone https://github.com/kylelynch/obsidian-bible-reference.git .obsidian/plugins/bible-reference
    ```
 2. Install dependencies and build:
    ```bash
